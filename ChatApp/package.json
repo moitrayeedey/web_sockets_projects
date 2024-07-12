@@ -1,0 +1,27 @@
+{
+  "name": "chatapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moitrayeedey/web_sockets_projects.git"
+  },
+  "keywords": [
+    "websocket",
+    "express",
+    "node"
+  ],
+  "author": "Moitrayee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moitrayeedey/web_sockets_projects/issues"
+  },
+  "homepage": "https://github.com/moitrayeedey/web_sockets_projects#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
