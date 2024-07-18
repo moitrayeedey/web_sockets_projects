@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/moitrayeedey/web_sockets_projects#readme",
   "dependencies": {
-    "express": "^4.19.2"
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
   }
 }
